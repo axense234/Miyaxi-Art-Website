@@ -142,7 +142,3 @@ img {
   justify-content: space-evenly;
   flex-direction: column;
 }
-
-#main-content div {
-  border: 1px solid black;
-}
